@@ -1,0 +1,45 @@
+*{
+    font-family: Helvetica, Arial, sans-serif;
+}
+.container-fluid{
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+.card{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.card-text{
+    font-size: 16px !important;
+}
+.card-header{
+    background-color: gray;
+  
+}
+.card-title{
+    margin-bottom: 0 !important;
+  
+}
+
+nav a{
+    margin-left: 20px;
+}
+.bgNav{
+   background-color: #ff8d27; 
+}
+
+footer{
+    background-color: #ff8d27;   
+}
+
+.btn-primary{
+    background-color: #ff8d27 !important;
+    border:none !important;
+}
+
+.descriptionResume{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 300ch;
+}
